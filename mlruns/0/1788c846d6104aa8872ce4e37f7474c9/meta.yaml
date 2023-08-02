@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/1788c846d6104aa8872ce4e37f7474c9/artifacts
+end_time: 1674527710701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1788c846d6104aa8872ce4e37f7474c9
+run_name: awesome-jay-166
+run_uuid: 1788c846d6104aa8872ce4e37f7474c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674527706359
+status: 3
+tags: []
+user_id: pjh

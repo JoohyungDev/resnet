@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/c1017fa2e61b4ad78b5575b9fde959bb/artifacts
+end_time: 1674719998953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1017fa2e61b4ad78b5575b9fde959bb
+run_name: auspicious-panda-797
+run_uuid: c1017fa2e61b4ad78b5575b9fde959bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674719974745
+status: 3
+tags: []
+user_id: pjh

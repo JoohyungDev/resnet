@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/e6a003e906774b0e84e595706327d595/artifacts
+end_time: 1674713525199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6a003e906774b0e84e595706327d595
+run_name: capricious-seal-458
+run_uuid: e6a003e906774b0e84e595706327d595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674713505639
+status: 3
+tags: []
+user_id: pjh

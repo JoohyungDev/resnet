@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/d148ecd8ca754c5ba19b9d0fd6db74d6/artifacts
+end_time: 1674707820454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d148ecd8ca754c5ba19b9d0fd6db74d6
+run_name: adaptable-fish-187
+run_uuid: d148ecd8ca754c5ba19b9d0fd6db74d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674707363034
+status: 3
+tags: []
+user_id: pjh

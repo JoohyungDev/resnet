@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/e0d7bc29fdf842339f8952986544a743/artifacts
+end_time: 1674701085967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0d7bc29fdf842339f8952986544a743
+run_name: secretive-shad-397
+run_uuid: e0d7bc29fdf842339f8952986544a743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674700641533
+status: 3
+tags: []
+user_id: pjh

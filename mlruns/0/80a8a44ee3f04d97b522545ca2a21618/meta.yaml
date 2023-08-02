@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/80a8a44ee3f04d97b522545ca2a21618/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80a8a44ee3f04d97b522545ca2a21618
+run_name: illustrious-grub-21
+run_uuid: 80a8a44ee3f04d97b522545ca2a21618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674799696373
+status: 1
+tags: []
+user_id: pjh

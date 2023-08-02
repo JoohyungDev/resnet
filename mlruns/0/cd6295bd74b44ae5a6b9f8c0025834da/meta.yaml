@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/cd6295bd74b44ae5a6b9f8c0025834da/artifacts
+end_time: 1674546307638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd6295bd74b44ae5a6b9f8c0025834da
+run_name: bustling-shrike-63
+run_uuid: cd6295bd74b44ae5a6b9f8c0025834da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674546152159
+status: 3
+tags: []
+user_id: pjh

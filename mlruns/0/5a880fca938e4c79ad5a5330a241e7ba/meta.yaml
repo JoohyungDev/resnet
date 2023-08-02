@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/5a880fca938e4c79ad5a5330a241e7ba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a880fca938e4c79ad5a5330a241e7ba
+run_name: blushing-bat-630
+run_uuid: 5a880fca938e4c79ad5a5330a241e7ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674734810875
+status: 1
+tags: []
+user_id: pjh

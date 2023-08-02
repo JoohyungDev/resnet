@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/116ae3f9e70949f6b449b2ec65688513/artifacts
+end_time: 1674532510422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 116ae3f9e70949f6b449b2ec65688513
+run_name: unruly-stork-23
+run_uuid: 116ae3f9e70949f6b449b2ec65688513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674532314471
+status: 3
+tags: []
+user_id: pjh

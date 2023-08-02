@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/59595e35fe3f40a181414e856dc79044/artifacts
+end_time: 1674373952994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59595e35fe3f40a181414e856dc79044
+run_name: smiling-slug-137
+run_uuid: 59595e35fe3f40a181414e856dc79044
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674373920890
+status: 3
+tags: []
+user_id: pjh

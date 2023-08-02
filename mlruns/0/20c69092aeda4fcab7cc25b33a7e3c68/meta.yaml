@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/20c69092aeda4fcab7cc25b33a7e3c68/artifacts
+end_time: 1674542078726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20c69092aeda4fcab7cc25b33a7e3c68
+run_name: chill-deer-391
+run_uuid: 20c69092aeda4fcab7cc25b33a7e3c68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674542078698
+status: 4
+tags: []
+user_id: pjh

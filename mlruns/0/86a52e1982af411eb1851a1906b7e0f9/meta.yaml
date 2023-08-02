@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/86a52e1982af411eb1851a1906b7e0f9/artifacts
+end_time: 1674551246920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86a52e1982af411eb1851a1906b7e0f9
+run_name: magnificent-hawk-862
+run_uuid: 86a52e1982af411eb1851a1906b7e0f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674551246892
+status: 4
+tags: []
+user_id: pjh

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/148e561527494cccad2bf2d4e3d8cb7e/artifacts
+end_time: 1674446372390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 148e561527494cccad2bf2d4e3d8cb7e
+run_name: entertaining-croc-96
+run_uuid: 148e561527494cccad2bf2d4e3d8cb7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674446367078
+status: 4
+tags: []
+user_id: pjh

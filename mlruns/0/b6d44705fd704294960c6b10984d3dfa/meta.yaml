@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/b6d44705fd704294960c6b10984d3dfa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6d44705fd704294960c6b10984d3dfa
+run_name: efficient-wolf-557
+run_uuid: b6d44705fd704294960c6b10984d3dfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674386101938
+status: 1
+tags: []
+user_id: pjh

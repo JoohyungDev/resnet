@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/3abcf12f639b4fa8b1617b096e56390a/artifacts
+end_time: 1674713751646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3abcf12f639b4fa8b1617b096e56390a
+run_name: sincere-flea-78
+run_uuid: 3abcf12f639b4fa8b1617b096e56390a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674713732149
+status: 3
+tags: []
+user_id: pjh

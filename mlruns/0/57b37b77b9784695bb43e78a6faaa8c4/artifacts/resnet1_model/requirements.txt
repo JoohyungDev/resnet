@@ -1,0 +1,5 @@
+mlflow<3,>=2.1
+cffi==1.15.1
+cloudpickle==2.2.0
+torch==1.13.1
+torchvision==0.14.1

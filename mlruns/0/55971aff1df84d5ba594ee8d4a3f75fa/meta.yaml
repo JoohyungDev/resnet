@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/55971aff1df84d5ba594ee8d4a3f75fa/artifacts
+end_time: 1674372316022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55971aff1df84d5ba594ee8d4a3f75fa
+run_name: invincible-hog-164
+run_uuid: 55971aff1df84d5ba594ee8d4a3f75fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674372283447
+status: 3
+tags: []
+user_id: pjh

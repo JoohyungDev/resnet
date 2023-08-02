@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/e9aee6bedd684d0e8586f614c27095d0/artifacts
+end_time: 1674485505164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9aee6bedd684d0e8586f614c27095d0
+run_name: gregarious-stoat-641
+run_uuid: e9aee6bedd684d0e8586f614c27095d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674485499649
+status: 4
+tags: []
+user_id: pjh

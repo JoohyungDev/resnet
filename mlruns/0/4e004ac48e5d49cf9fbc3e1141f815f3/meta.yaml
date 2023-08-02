@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/4e004ac48e5d49cf9fbc3e1141f815f3/artifacts
+end_time: 1674487288384
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e004ac48e5d49cf9fbc3e1141f815f3
+run_name: rebellious-rat-902
+run_uuid: 4e004ac48e5d49cf9fbc3e1141f815f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674487283982
+status: 3
+tags: []
+user_id: pjh

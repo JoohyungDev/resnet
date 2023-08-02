@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/a4cc2c03533343de9793b2795bcd498e/artifacts
+end_time: 1674370845407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4cc2c03533343de9793b2795bcd498e
+run_name: gifted-finch-958
+run_uuid: a4cc2c03533343de9793b2795bcd498e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674370813606
+status: 3
+tags: []
+user_id: pjh

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/ab006bac117741f3b1ab17e6f4aac779/artifacts
+end_time: 1674373495796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab006bac117741f3b1ab17e6f4aac779
+run_name: casual-loon-79
+run_uuid: ab006bac117741f3b1ab17e6f4aac779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674373464005
+status: 3
+tags: []
+user_id: pjh

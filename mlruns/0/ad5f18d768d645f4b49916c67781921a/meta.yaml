@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/ad5f18d768d645f4b49916c67781921a/artifacts
+end_time: 1674707132019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad5f18d768d645f4b49916c67781921a
+run_name: colorful-conch-939
+run_uuid: ad5f18d768d645f4b49916c67781921a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674706691989
+status: 3
+tags: []
+user_id: pjh

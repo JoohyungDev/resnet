@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/5e7cf4696ecf44749b2583ecc4d4254e/artifacts
+end_time: 1674553299788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e7cf4696ecf44749b2583ecc4d4254e
+run_name: rare-donkey-820
+run_uuid: 5e7cf4696ecf44749b2583ecc4d4254e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674553299759
+status: 4
+tags: []
+user_id: pjh

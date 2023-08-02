@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/1ce0898210b7499d96c73bcc233d4035/artifacts
+end_time: 1674376697414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ce0898210b7499d96c73bcc233d4035
+run_name: rogue-crab-470
+run_uuid: 1ce0898210b7499d96c73bcc233d4035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674376595140
+status: 3
+tags: []
+user_id: pjh

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/f53312b4f82c4ea2b079b47a778e9ac5/artifacts
+end_time: 1674713955430
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f53312b4f82c4ea2b079b47a778e9ac5
+run_name: righteous-lark-477
+run_uuid: f53312b4f82c4ea2b079b47a778e9ac5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674713935660
+status: 3
+tags: []
+user_id: pjh

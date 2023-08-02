@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/ce3bf5ba3aad426aa26f99562e54142c/artifacts
+end_time: 1674713695051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce3bf5ba3aad426aa26f99562e54142c
+run_name: aged-cow-630
+run_uuid: ce3bf5ba3aad426aa26f99562e54142c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674713675684
+status: 3
+tags: []
+user_id: pjh

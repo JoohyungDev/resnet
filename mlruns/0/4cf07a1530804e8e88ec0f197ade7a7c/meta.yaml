@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/4cf07a1530804e8e88ec0f197ade7a7c/artifacts
+end_time: 1674371052939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cf07a1530804e8e88ec0f197ade7a7c
+run_name: gregarious-grub-592
+run_uuid: 4cf07a1530804e8e88ec0f197ade7a7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674371021462
+status: 3
+tags: []
+user_id: pjh

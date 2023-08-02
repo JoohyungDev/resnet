@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/8ad7a8541e89489788642a066f31aa0e/artifacts
+end_time: 1674370327462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ad7a8541e89489788642a066f31aa0e
+run_name: vaunted-chimp-632
+run_uuid: 8ad7a8541e89489788642a066f31aa0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674370291282
+status: 3
+tags: []
+user_id: pjh

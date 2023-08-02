@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/9bf33eb9768c4e2d8323f0481e29f592/artifacts
+end_time: 1674555337771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bf33eb9768c4e2d8323f0481e29f592
+run_name: trusting-hare-335
+run_uuid: 9bf33eb9768c4e2d8323f0481e29f592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674554895250
+status: 3
+tags: []
+user_id: pjh

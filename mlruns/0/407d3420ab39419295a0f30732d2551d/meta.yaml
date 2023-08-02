@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/407d3420ab39419295a0f30732d2551d/artifacts
+end_time: 1674553258486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 407d3420ab39419295a0f30732d2551d
+run_name: serious-calf-991
+run_uuid: 407d3420ab39419295a0f30732d2551d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674553258458
+status: 4
+tags: []
+user_id: pjh

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/810e75cf279a44ee91a4bf261473e497/artifacts
+end_time: 1674531450405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 810e75cf279a44ee91a4bf261473e497
+run_name: adaptable-carp-49
+run_uuid: 810e75cf279a44ee91a4bf261473e497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674531411192
+status: 4
+tags: []
+user_id: pjh

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/8f3d8f40a4294a20bbd44eb46b530a9e/artifacts
+end_time: 1674542273120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f3d8f40a4294a20bbd44eb46b530a9e
+run_name: clean-pig-582
+run_uuid: 8f3d8f40a4294a20bbd44eb46b530a9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674542116383
+status: 3
+tags: []
+user_id: pjh

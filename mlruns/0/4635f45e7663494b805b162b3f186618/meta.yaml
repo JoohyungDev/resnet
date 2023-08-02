@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/4635f45e7663494b805b162b3f186618/artifacts
+end_time: 1674388357784
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4635f45e7663494b805b162b3f186618
+run_name: defiant-elk-503
+run_uuid: 4635f45e7663494b805b162b3f186618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674388322384
+status: 3
+tags: []
+user_id: pjh

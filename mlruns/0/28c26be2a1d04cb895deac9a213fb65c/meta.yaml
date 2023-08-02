@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/28c26be2a1d04cb895deac9a213fb65c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28c26be2a1d04cb895deac9a213fb65c
+run_name: unruly-rook-216
+run_uuid: 28c26be2a1d04cb895deac9a213fb65c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674370755894
+status: 1
+tags: []
+user_id: pjh

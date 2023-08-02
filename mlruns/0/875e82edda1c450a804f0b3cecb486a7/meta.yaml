@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/875e82edda1c450a804f0b3cecb486a7/artifacts
+end_time: 1674525793569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 875e82edda1c450a804f0b3cecb486a7
+run_name: fearless-perch-618
+run_uuid: 875e82edda1c450a804f0b3cecb486a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674525788996
+status: 3
+tags: []
+user_id: pjh

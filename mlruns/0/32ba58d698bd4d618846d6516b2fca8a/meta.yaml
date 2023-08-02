@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/32ba58d698bd4d618846d6516b2fca8a/artifacts
+end_time: 1674369732819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32ba58d698bd4d618846d6516b2fca8a
+run_name: nebulous-robin-30
+run_uuid: 32ba58d698bd4d618846d6516b2fca8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674369727749
+status: 3
+tags: []
+user_id: pjh

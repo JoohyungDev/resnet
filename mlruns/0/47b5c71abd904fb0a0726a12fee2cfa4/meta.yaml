@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/47b5c71abd904fb0a0726a12fee2cfa4/artifacts
+end_time: 1674704405079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47b5c71abd904fb0a0726a12fee2cfa4
+run_name: stylish-hare-34
+run_uuid: 47b5c71abd904fb0a0726a12fee2cfa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674703964921
+status: 3
+tags: []
+user_id: pjh

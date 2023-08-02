@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/5ec0c94b4db442f3b5bad6c2bfd9b77e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ec0c94b4db442f3b5bad6c2bfd9b77e
+run_name: illustrious-ray-80
+run_uuid: 5ec0c94b4db442f3b5bad6c2bfd9b77e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674386257299
+status: 1
+tags: []
+user_id: pjh

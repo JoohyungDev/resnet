@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/f2a8a530888c4881a2f57daea889f0fd/artifacts
+end_time: 1674632351226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2a8a530888c4881a2f57daea889f0fd
+run_name: bemused-boar-334
+run_uuid: f2a8a530888c4881a2f57daea889f0fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674631897366
+status: 3
+tags: []
+user_id: pjh

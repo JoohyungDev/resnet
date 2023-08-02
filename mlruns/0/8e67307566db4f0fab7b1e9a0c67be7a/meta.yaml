@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/8e67307566db4f0fab7b1e9a0c67be7a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e67307566db4f0fab7b1e9a0c67be7a
+run_name: kindly-ape-237
+run_uuid: 8e67307566db4f0fab7b1e9a0c67be7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674712859519
+status: 1
+tags: []
+user_id: pjh

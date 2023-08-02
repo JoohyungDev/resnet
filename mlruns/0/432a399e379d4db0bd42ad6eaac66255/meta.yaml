@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/432a399e379d4db0bd42ad6eaac66255/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 432a399e379d4db0bd42ad6eaac66255
+run_name: hilarious-owl-259
+run_uuid: 432a399e379d4db0bd42ad6eaac66255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674446081797
+status: 1
+tags: []
+user_id: pjh

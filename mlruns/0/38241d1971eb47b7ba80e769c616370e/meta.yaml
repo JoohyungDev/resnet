@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/38241d1971eb47b7ba80e769c616370e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38241d1971eb47b7ba80e769c616370e
+run_name: overjoyed-jay-137
+run_uuid: 38241d1971eb47b7ba80e769c616370e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674376874533
+status: 1
+tags: []
+user_id: pjh

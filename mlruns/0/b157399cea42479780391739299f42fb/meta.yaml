@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/b157399cea42479780391739299f42fb/artifacts
+end_time: 1674713612983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b157399cea42479780391739299f42fb
+run_name: flawless-panda-898
+run_uuid: b157399cea42479780391739299f42fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674713593377
+status: 3
+tags: []
+user_id: pjh

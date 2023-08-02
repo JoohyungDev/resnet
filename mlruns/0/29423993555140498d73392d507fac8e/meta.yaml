@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/29423993555140498d73392d507fac8e/artifacts
+end_time: 1674486976950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29423993555140498d73392d507fac8e
+run_name: redolent-penguin-927
+run_uuid: 29423993555140498d73392d507fac8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674486972554
+status: 3
+tags: []
+user_id: pjh

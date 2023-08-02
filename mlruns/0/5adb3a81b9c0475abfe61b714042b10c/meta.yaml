@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/5adb3a81b9c0475abfe61b714042b10c/artifacts
+end_time: 1674874997781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5adb3a81b9c0475abfe61b714042b10c
+run_name: unleashed-sheep-738
+run_uuid: 5adb3a81b9c0475abfe61b714042b10c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674874997754
+status: 4
+tags: []
+user_id: pjh

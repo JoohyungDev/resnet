@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/234415e2674b4a47b7d31355d9e36d5d/artifacts
+end_time: 1674531282049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 234415e2674b4a47b7d31355d9e36d5d
+run_name: sedate-crow-535
+run_uuid: 234415e2674b4a47b7d31355d9e36d5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674531242938
+status: 4
+tags: []
+user_id: pjh

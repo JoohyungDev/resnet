@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/fb5c9a777db347e3b785eab4332c2099/artifacts
+end_time: 1674810198997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb5c9a777db347e3b785eab4332c2099
+run_name: learned-yak-833
+run_uuid: fb5c9a777db347e3b785eab4332c2099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674810174297
+status: 3
+tags: []
+user_id: pjh

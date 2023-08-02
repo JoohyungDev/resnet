@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/9f3392f85204445280a29ba06409f91d/artifacts
+end_time: 1674485844077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f3392f85204445280a29ba06409f91d
+run_name: calm-wren-903
+run_uuid: 9f3392f85204445280a29ba06409f91d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674485839719
+status: 3
+tags: []
+user_id: pjh

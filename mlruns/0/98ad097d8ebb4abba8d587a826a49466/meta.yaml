@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/98ad097d8ebb4abba8d587a826a49466/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98ad097d8ebb4abba8d587a826a49466
+run_name: vaunted-gnat-784
+run_uuid: 98ad097d8ebb4abba8d587a826a49466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674445969553
+status: 1
+tags: []
+user_id: pjh

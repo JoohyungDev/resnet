@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/57b37b77b9784695bb43e78a6faaa8c4/artifacts
+end_time: 1674713960716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57b37b77b9784695bb43e78a6faaa8c4
+run_name: gaudy-tern-993
+run_uuid: 57b37b77b9784695bb43e78a6faaa8c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674713955436
+status: 3
+tags: []
+user_id: pjh

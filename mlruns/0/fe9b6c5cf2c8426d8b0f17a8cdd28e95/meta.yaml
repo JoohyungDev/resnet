@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/fe9b6c5cf2c8426d8b0f17a8cdd28e95/artifacts
+end_time: 1674532852689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe9b6c5cf2c8426d8b0f17a8cdd28e95
+run_name: defiant-conch-598
+run_uuid: fe9b6c5cf2c8426d8b0f17a8cdd28e95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674532658784
+status: 3
+tags: []
+user_id: pjh

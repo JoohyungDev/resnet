@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/eaa783448c614a12ad09385e48a8875f/artifacts
+end_time: 1674551362793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaa783448c614a12ad09385e48a8875f
+run_name: shivering-bee-928
+run_uuid: eaa783448c614a12ad09385e48a8875f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674551362765
+status: 4
+tags: []
+user_id: pjh

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/6c975a5dda2d41fe93537ff8c44c3050/artifacts
+end_time: 1674705502109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c975a5dda2d41fe93537ff8c44c3050
+run_name: puzzled-finch-577
+run_uuid: 6c975a5dda2d41fe93537ff8c44c3050
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674705057786
+status: 3
+tags: []
+user_id: pjh

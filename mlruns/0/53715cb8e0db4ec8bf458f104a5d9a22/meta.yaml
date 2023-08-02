@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/53715cb8e0db4ec8bf458f104a5d9a22/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53715cb8e0db4ec8bf458f104a5d9a22
+run_name: thundering-bird-605
+run_uuid: 53715cb8e0db4ec8bf458f104a5d9a22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674373334768
+status: 1
+tags: []
+user_id: pjh

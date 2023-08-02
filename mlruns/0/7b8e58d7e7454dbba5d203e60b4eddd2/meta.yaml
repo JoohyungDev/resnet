@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/7b8e58d7e7454dbba5d203e60b4eddd2/artifacts
+end_time: 1674385705765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b8e58d7e7454dbba5d203e60b4eddd2
+run_name: bald-frog-478
+run_uuid: 7b8e58d7e7454dbba5d203e60b4eddd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674385669576
+status: 3
+tags: []
+user_id: pjh

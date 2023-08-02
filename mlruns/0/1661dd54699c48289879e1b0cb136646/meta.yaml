@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pjh/AI/mlruns/0/1661dd54699c48289879e1b0cb136646/artifacts
+end_time: 1674531177922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1661dd54699c48289879e1b0cb136646
+run_name: legendary-panda-377
+run_uuid: 1661dd54699c48289879e1b0cb136646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674531176715
+status: 4
+tags: []
+user_id: pjh
